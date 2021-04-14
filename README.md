@@ -3,7 +3,7 @@
 ### Important Links
 -	Front-End-Repo: https://github.com/demonte24/German-Land-client/tree/master
 
--	Deployed API:
+-	Deployed API: https://warm-thicket-76411.herokuapp.com/
 
 -	Deployed Client:
 
@@ -35,7 +35,7 @@
 | PATCH  | `/change-password/`|password |token| 204 No Content| user w/token
 | DELETE | `/sign-out/`       | empty|token |   201 Created | empty
 
-###### Pictures
+###### dogs
 | Verb   | URI   |Body    |Headers  |  Status | Body |
 |--------|--------------|------  |-----  |-------------------|------------|
 | POST   | `/dogs`   |{} | token | 201, Created| Dog Obj
