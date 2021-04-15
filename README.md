@@ -46,10 +46,9 @@
 ### Unsolved Problems
 
 #### Images
-<img width="1055" alt="Screen Shot 2021-04-14 at 12 45 02 PM" src="https://media.git.generalassemb.ly/user/33721/files/d51e1e80-9d1f-11eb-8a02-f050c90bfe52">
+<img width="1136" alt="Screen Shot 2021-04-15 at 10 25 24 AM" src="https://media.git.generalassemb.ly/user/33721/files/26d4b080-9dd5-11eb-8624-09a492cb6f21">
 
-<img width="446" alt="Screen Shot 2021-04-14 at 12 48 29 PM" src="https://media.git.generalassemb.ly/user/33721/files/e0714a00-9d1f-11eb-91f7-d3c7f8a6dc2c">
-
+<img width="1279" alt="Screen Shot 2021-04-15 at 10 26 46 AM" src="https://media.git.generalassemb.ly/user/33721/files/23d9c000-9dd5-11eb-9b7d-4cd7b75251bc">
 
 #### Wireframe
 <img width="578" alt="Screen Shot 2021-04-14 at 12 39 19 PM" src="https://media.git.generalassemb.ly/user/33721/files/b2d7d100-9d1e-11eb-8dc1-982741da60eb">
